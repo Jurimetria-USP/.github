@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Jurimetria USP</title>
+  <desc id="desc">Direito, Desigualdades e Ciência de Dados. FD, FEA-RP, Universidade de São Paulo.</desc>
+
+  <rect width="1280" height="360" rx="20" fill="#F7F7F3"/>
+  <path d="M0 0h1280v12H0z" fill="#B49A68"/>
+  <path d="M0 12h1280v348H0z" fill="#233F56"/>
+
+  <g opacity="0.16" fill="none" stroke="#E8EEF5">
+    <circle cx="1118" cy="180" r="142" stroke-width="2"/>
+    <circle cx="1118" cy="180" r="104" stroke-width="2"/>
+    <circle cx="1118" cy="180" r="66" stroke-width="2"/>
+    <path d="M976 180h284M1118 38v284" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(88 76)">
+    <rect x="0" y="0" width="7" height="206" rx="3.5" fill="#B49A68"/>
+
+    <text x="38" y="70" fill="#F7F7F3" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" letter-spacing="0.5">
+      Jurimetria USP
+    </text>
+
+    <text x="40" y="124" fill="#E8EEF5" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" letter-spacing="2.2">
+      DIREITO · DESIGUALDADES · CIÊNCIA DE DADOS
+    </text>
+
+    <line x1="40" y1="158" x2="710" y2="158" stroke="#415A77" stroke-width="2"/>
+
+    <text x="40" y="202" fill="#B49A68" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="1.5">
+      FD | FEA-RP | UNIVERSIDADE DE SÃO PAULO
+    </text>
+  </g>
+
+  <g transform="translate(1118 180)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-48 14L0-15l48 29L0 43z" stroke="#B49A68" stroke-width="5"/>
+    <path d="M-31 25v37M31 25v37M-49 70h98" stroke="#E8EEF5" stroke-width="5"/>
+    <circle cx="0" cy="-42" r="13" fill="#B49A68" stroke="none"/>
+    <path d="M0-29v14" stroke="#B49A68" stroke-width="5"/>
+  </g>
+</svg>
